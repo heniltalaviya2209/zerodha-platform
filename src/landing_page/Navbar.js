@@ -30,7 +30,7 @@ function Navbar() {
           <form className="d-flex" role="search">
             <ul className="navbar-nav mb-lg-0">
               <li className="nav-item">
-                <Link className="nav-link active" to="/signup">
+                <Link className="nav-link active" to="/">
                   Signup
                 </Link>
               </li>
