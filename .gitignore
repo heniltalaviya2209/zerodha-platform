@@ -21,3 +21,13 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+pnpm-debug.log*
+
+# local editors
+.vscode/
+.idea/
+
+# local env files
+.env
+.env.*
+!.env.example
